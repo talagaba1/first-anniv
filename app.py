@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="to my baby", page_icon=":growing_heart:", layout = "wide")
+st.set_page_config(page_title="to julianne", page_icon=":growing_heart:", layout = "wide")
 
 st.subheader("hi, baby")
 st.title("here's to 2 months " +"(pero mas mahaba pa talaga yon) "+ "of love with you")
