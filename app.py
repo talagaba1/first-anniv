@@ -8,7 +8,7 @@ st.write("hi bebe! i made this website for u!! a simple lsm would NOT be able to
 st.write("""i love everything about you bebe. the way you fix your hair when we vc, the way your hair perfectly frames your face,
          the way everything you do makes you 10X MORE ATTRACTIVE !!!! AKSJHFKAJSHFA i love looking at u when u smile, thats why i love making you smile.
          i also love knowing im the reason behind your smiles, and knowing that u are also the reason behind mine. words will never be able to express how much i love you and appreciate you.
-         we've been together for months na, pero i still cant deny na i have a big FAT CRUSH on you. i internally scream when you look at me, when you hold my hand, when you smile at me;
+         we've been together for months na, pero i still cant deny na i have a big FAT CRUSH on you. i internally scream when you look at me, when you say my name, when you smile at me;
          everything you do makes my heart skip a beat. being with you makes me feel two very opposite things. you make me feel at ease, while also making my heart want to jump out of my chest.
          believe me when i say i love you, and that youre my favorite person. everything and everyone else goes on mute when im with you. when i feel cold, the thought of you is like 
          a warm, thick wool sweater. but beyond the romance and the adventures, what truly amazes me is the growth we've experienced together. 
